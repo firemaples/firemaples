@@ -15,6 +15,8 @@
 
 I worked on <a href='https://play.google.com/store/apps/details?id=com.mambet.tv&hl=en&gl=US'>Booyah</a> in Garena
 
+<a src='https://skyline.github.com/firemaples/2021'><img src='github-skyline-low-1.gif' height='300px' alt="firemaples' skyline" /></a>
+
 ![Firemaples' GitHub stats](https://github-readme-stats.vercel.app/api?username=firemaples&show_icons=true&theme=tokyonight)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=firemaples&theme=tokyonight)](https://git.io/streak-stats)
