@@ -46,7 +46,11 @@ Or simplily send me an email: **firemaples@gmail.com**
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=firemaples&theme=tokyonight)](https://git.io/streak-stats)
 </div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=firemaples" alt="firemaples" /></a> </p>
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=firemaples&theme=juicyfresh" alt="firemaples" />
+  </a>
+</p>
 
 <!--
 **firemaples/firemaples** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
