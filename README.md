@@ -1,12 +1,12 @@
-### Hi there, I'm Louis, I'm an Android Engineer with 9+ years of experience 👋
+### Hi there, I'm Louis. I'm an Android Engineer with 9+ years of experience 👋
 
-- I worked on <a href='https://play.google.com/store/apps/details?id=com.mambet.tv&hl=en&gl=US'>Booyah</a> project in Garena.
-- I've involved [10+ projects](https://www.linkedin.com/in/louis-chen-lc/details/projects/) including several **personal projects** and **open-sourced projects**.
-- My knowledge covers from clients to servers.
-- I'm in Taiwan now but I'd like to work in Europe and North America. (need the visa sponsership)
+- I worked on the <a href='https://play.google.com/store/apps/details?id=com.mambet.tv&hl=en&gl=US'>Booyah</a> project in Garena.
+- I've been involved [10+ projects](https://www.linkedin.com/in/louis-chen-lc/details/projects/), including several **personal** and **open-sourced projects**.
+- My knowledge covers clients to servers.
+- I'm in Taiwan now, but I'd like to work in Europe and North America. (need the visa sponsorship)
 
-If you're insterested in me, see more details about me on my [LinkedIn](https://linkedin.com/in/louis-chen-lc) profile.  
-If you have a **job oppotunity**, please feel free to contact me on the following tools. 👇
+If you're interested in me, see more details about me on my [LinkedIn](https://linkedin.com/in/louis-chen-lc) profile.  
+If you have a **job opportunity**, don't hesitate to contact me using the following tools. 👇
 
 ### Connect with me:
 
