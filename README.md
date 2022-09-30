@@ -4,7 +4,7 @@
 - I've involved 10+ projects.
 - My knowledge covers from clients to servers.
 - I have several **personal projects** and contributed multiple **open-sourced projects**.
-- I'm in Taiwan now but I'd like to work in Europe and North America.
+- I'm in Taiwan now but I'd like to work in Europe and North America. (need the visa sponsership)
 
 If you're insterested in me, see more details about me on my [LinkedIn](https://linkedin.com/in/louis-chen-lc) profile.  
 If you have a **job oppotunity**, please feel free to contact me on [LinkedIn](https://linkedin.com/in/louis-chen-lc).
