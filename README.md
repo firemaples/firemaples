@@ -1,6 +1,6 @@
 ### Hi there, I'm Louis, an Android Engineer with 9+ years of experience 👋
 
-- I worked on the <a href='https://play.google.com/store/apps/details?id=com.mambet.tv&hl=en&gl=US'>Booyah</a> project in Garena.
+- I worked as a Senior Android Engineer on the <a href='https://play.google.com/store/apps/details?id=com.mambet.tv&hl=en&gl=US'>Booyah</a> project in Garena.
 - I've been involved [10+ projects](https://www.linkedin.com/in/louis-chen-lc/details/projects/), including several **personal** and **open-sourced projects**.
 - My knowledge covers clients to servers.
 - I'm in Taiwan now, but I'd like to work in Europe and North America. (need the visa sponsorship)
