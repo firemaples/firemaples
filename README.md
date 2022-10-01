@@ -1,6 +1,6 @@
 ### Hi there, I'm Louis, an Android Engineer with 9+ years of experience 👋
 
-- I worked as a Senior Android Engineer on the <a href='https://play.google.com/store/apps/details?id=com.mambet.tv&hl=en&gl=US'>Booyah</a> project in Garena.
+- I worked as a Senior Android Engineer on the <a href='https://play.google.com/store/apps/details?id=com.mambet.tv&hl=en&gl=US'>Booyah</a> project in [Garena](https://www.sea.com/products/garena). <a href='https://www.sea.com/products/garena'><img src='materials/Garena_logo.jpg' height='40px' /></a>
 - I've been involved [10+ projects](https://www.linkedin.com/in/louis-chen-lc/details/projects/), including several **personal** and **open-sourced projects**.
 - My knowledge covers clients to servers.
 - I'm in Taiwan now, but I'd like to work in Europe and North America. (need the visa sponsorship)
@@ -28,7 +28,7 @@ If you have a **job opportunity**, don't hesitate to contact me using the follow
   </a> -->
 </p>
 
-Or simplily send me an email: **firemaples@gmail.com**
+or send me an email: **firemaples@gmail.com**
 
 ### Languages and Tools:
 
@@ -49,7 +49,7 @@ Or simplily send me an email: **firemaples@gmail.com**
 &nbsp;<br>
 
 <div>
-  <a src='https://skyline.github.com/firemaples/2021'><img src='github-skyline-low-1.gif' height='300px' alt="firemaples' skyline" /></a>
+  <a src='https://skyline.github.com/firemaples/2021'><img src='materials/github-skyline-low-1.gif' height='300px' alt="firemaples' skyline" /></a>
 
   ![Firemaples' GitHub stats](https://github-readme-stats.vercel.app/api?username=firemaples&show_icons=true&theme=tokyonight)
 
