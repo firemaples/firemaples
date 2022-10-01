@@ -23,9 +23,9 @@ If you have a **job opportunity**, don't hesitate to contact me using the follow
   <a href="https://fb.com/firemaples" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="firemaples" height="30" width="40" />
   </a>
-  <a href="https://www.leetcode.com/firemaples" target="blank">
+<!--   <a href="https://www.leetcode.com/firemaples" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="firemaples" height="30" width="40" />
-  </a>
+  </a> -->
 </p>
 
 Or simplily send me an email: **firemaples@gmail.com**
