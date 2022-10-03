@@ -51,7 +51,9 @@ or send me an email: **firemaples@gmail.com**
 <div>
   <a src='https://skyline.github.com/firemaples/2021'><img src='materials/github-skyline-low-1.gif' height='300px' alt="firemaples' skyline" /></a>
 
-  ![Firemaples' GitHub stats](https://github-readme-stats.vercel.app/api?username=firemaples&show_icons=true&theme=tokyonight)
+  &nbsp;<br>
+
+  ![Firemaples' GitHub stats](https://github-readme-stats.vercel.app/api?username=firemaples&show_icons=true&theme=tokyonight&hide=contribs)
 
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=firemaples&theme=tokyonight)](https://git.io/streak-stats)
 </div>
