@@ -3,7 +3,7 @@
 - I worked as a Senior Android Engineer on the <a href='https://play.google.com/store/apps/details?id=com.mambet.tv&hl=en&gl=US'>Booyah</a> project in [Garena](https://www.sea.com/products/garena). <a href='https://www.sea.com/products/garena'><img src='materials/Garena_logo.jpg' height='40px' /></a>
 - I've been involved [10+ projects](https://www.linkedin.com/in/louis-chen-lc/details/projects/), including several **personal** and **open-sourced projects**.
 - My knowledge covers clients to servers.
-- I'm in Taiwan now, but I'd like to work in Europe and North America. (need the visa sponsorship)
+- I'm in Taiwan now, but I'd like to work in Europe, North America or other countries that provide an English environment. (need the visa sponsorship)
 
 If you're interested in me, see more details about me on my [LinkedIn](https://linkedin.com/in/louis-chen-lc) profile.  
 If you have a **job opportunity**, don't hesitate to contact me using the following tools. 👇
