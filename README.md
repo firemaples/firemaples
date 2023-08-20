@@ -3,7 +3,7 @@
 <!--
 - I worked as a Senior Android Engineer on the <a href='https://play.google.com/store/apps/details?id=com.mambet.tv&hl=en&gl=US'>Booyah</a> project in [Garena](https://www.sea.com/products/garena). <a href='https://www.sea.com/products/garena'><img src='materials/Garena_logo.jpg' height='40px' /></a>
 -->
-- I'm a Senior Android Engineer in Mercari JP.
+- I'm a Senior Android Engineer in [Mercari JP](https://jp.mercari.com/).
 - I've been involved [10+ projects](https://www.linkedin.com/in/louis-chen-lc/details/projects/), including several **personal** and **open-sourced projects**.
 - My knowledge covers clients to servers.
 <!--
