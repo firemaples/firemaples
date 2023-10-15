@@ -51,7 +51,9 @@ or send me an email: **firemaples@gmail.com**
   </a>
 </div> -->
 
-&nbsp;<br>
+&nbsp;<be>
+
+![](https://komarev.com/ghpvc/?username=firemaples&style=for-the-badge)
 
 <div>
   <a src='https://skyline.github.com/firemaples/2021'><img src='materials/github-skyline-low-1.gif' height='300px' alt="firemaples' skyline" /></a>
